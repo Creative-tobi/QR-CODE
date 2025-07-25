@@ -24,8 +24,8 @@ The challenge is to build out this QR code component and getting it to look as c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://creative-tobi.github.io/QR-CODE/)
-- Live Site URL: [Add live site URL here](https://qr-code-clone.netlify.app/)
+- Solution URL: [https://creative-tobi.github.io/QR-CODE/](https://creative-tobi.github.io/QR-CODE/)
+- Live Site URL: [https://qr-code-clone.netlify.app/)](https://qr-code-clone.netlify.app/)
 
 
 ### Built with
