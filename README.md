@@ -50,7 +50,7 @@ While building this QR Code component, I learned:
 
 ## Author
 
-- Website - [Add your name here](https://qr-code-clone.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://x.com/aish15294)
+- Website - [Creative-tobi](https://qr-code-clone.netlify.app/)
+- Frontend Mentor - [@Creative-tobi](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@aisha15294](https://x.com/aish15294)
 
