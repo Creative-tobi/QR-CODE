@@ -19,7 +19,7 @@ The challenge is to build out this QR code component and getting it to look as c
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./images/screenshot.jpg)
 
 
 ### Links
